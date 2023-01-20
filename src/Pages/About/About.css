@@ -1,0 +1,19 @@
+.about-text p {
+    width: 100%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #000000;
+}
+
+#button {
+    width: 292px;
+    height: 84px;
+    background: #E7E6E4;
+    border-radius: 5px;
+    margin-top: 30px;
+}

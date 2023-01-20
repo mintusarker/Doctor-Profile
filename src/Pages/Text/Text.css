@@ -1,0 +1,43 @@
+.line {
+    top: 889px;
+    font-family: 'Oooh Baby';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 42px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #6D2E46;
+    margin-bottom: 25px;
+}
+
+.line1 {
+    height: 44px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    /* line-height: 44px; */
+    text-align: center;
+    letter-spacing: 2px;
+    color: #6D2E46;
+}
+
+.line2 {
+    /* left: 223px;
+    top: 1005px; */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    /* line-height: 36px; */
+    text-align: center;
+    letter-spacing: 2px;
+    color: #1E1E1E;
+
+}
+
+#text-line {
+    height: 0px;
+    left: 0px;
+    border: 1px solid #6D2E46;
+}

@@ -1,0 +1,54 @@
+#footer11 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    color: #6D2E46;
+}
+
+
+#footer12 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    color: #6D2E46;
+}
+
+#footer13 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    color: #6D2E46;
+}
+
+.name {
+    width: 223px;
+    height: 55px;
+    background: #D9D9D9;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.name1 {
+    width: 458px;
+    height: 55px;
+    background: #D9D9D9;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.name2 {
+    width: 458px;
+    height: 167px;
+    background: #D9D9D9;
+    border-radius: 5px;
+      margin: 10px;
+}

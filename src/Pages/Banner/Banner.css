@@ -1,0 +1,31 @@
+.text1 {
+    height: 131px;
+    left: 126px;
+    top: 313px;
+    font-family: 'Miama';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 42px;
+    color: #6D2E46;
+}
+.text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: 0.005em;
+}
+.text2 {
+    width: 319px;
+    height: 16px;
+    left: 268px;
+    top: 496px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 16px;
+    letter-spacing: 2px;
+    color: #6D2E46;
+}
